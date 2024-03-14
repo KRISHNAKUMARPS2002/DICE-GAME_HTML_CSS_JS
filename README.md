@@ -10,7 +10,8 @@ This project is a simple web-based dice game built using HTML, CSS, and JavaScri
 
 ## Preview
 
-![Dicee Preview](preview/Screenshot 2024-03-14 154842.png)
+![Dicee Preview](preview/Screenshot%202024-03-14%20154842.png)
+
 
 
 ## How to Run
